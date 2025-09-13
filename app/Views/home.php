@@ -10,7 +10,7 @@
     <title>Scholar - Online School HTML5 Template</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="<?php echo base_url(); ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url(); ?>assets/vendorfile/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 
     <!-- Additional CSS Files -->
@@ -672,8 +672,8 @@ https://templatemo.com/tm-586-scholar
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
-  <script src="<?php echo base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
-  <script src="<?php echo base_url(); ?>assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+  <script src="<?php echo base_url(); ?>assets/vendorfile/jquery/jquery.min.js"></script>
+  <script src="<?php echo base_url(); ?>assets/vendorfile/bootstrap/js/bootstrap.min.js"></script>
   <script src="<?php echo base_url(); ?>assets/assets/js/isotope.min.js"></script>
   <script src="<?php echo base_url(); ?>assets/assets/js/owl-carousel.js"></script>
   <script src="<?php echo base_url(); ?>assets/assets/js/counter.js"></script>
